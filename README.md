@@ -1,2 +1,2 @@
 ## Book store with cart. Redux study
-[Watch online]((https://intense-ocean-49104.herokuapp.com/))
+[Live version](https://intense-ocean-49104.herokuapp.com/)
